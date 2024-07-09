@@ -5,7 +5,7 @@ import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import { useDispatch } from "react-redux";
 import { personalData, setalarm } from "../store/dataSlice";
-import { alarm } from "../store/dataSlice";
+
 
 export const Contact = () => {
   const dispatch = useDispatch();
