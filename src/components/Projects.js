@@ -30,7 +30,7 @@ export const Projects = () => {
       title: "NetFlix-Suggestion Google AI ",
       description: "NetFlix HomePage UI & AI assisted mood based movie suggestions using TMDB API",
       imgUrl: projImg3,
-       link:"https://moviesaiflix.netlify.app/signIn"
+       link:"https://moviesaiflix.netlify.app"
     },
     {
       id:4,
