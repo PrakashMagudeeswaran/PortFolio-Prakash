@@ -11,7 +11,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [  "Management Grad","B.Tech","Data Alchemy","Web dev" ];
+  const toRotate = [  "Management Grad","B.Tech","Data Alchemy","Web dev","Content Writing" ];
   const period = 2000;
 
   useEffect(() => {
@@ -54,7 +54,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
               <div className= "animate__animated1">
                 <h1>{`Hi! I'm Prakash`} </h1>
-                  <h2 className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer","Full-Stack Dev","React Dev","Management Graduate" ]'><span className="wrap">{text}</span></h2>
+                  <h2 className="txt-rotate" dataPeriod="1000" data-rotate='[ "Management Grad","B.Tech","Data Alchemy","Web dev","Content Writing" ]'><span className="wrap">{text}</span></h2>
                   <p>When data meets decision making,business finds its edge, Insights aren't discovered but designed. Driven by data, aligned with business outcomes</p>
               </div>
           </Col>
