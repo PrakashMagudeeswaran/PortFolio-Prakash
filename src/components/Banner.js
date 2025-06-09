@@ -55,7 +55,7 @@ export const Banner = () => {
               <div className= "animate__animated1">
                 <h1>{`Hi! I'm Prakash`} </h1>
                   <h2 className="txt-rotate" dataPeriod="1000" data-rotate='[ "Management Grad","B.Tech","Data Alchemy","Web dev","Content Writing" ]'><span className="wrap">{text}</span></h2>
-                  <p>When data meets decision making,business finds its edge, Insights aren't discovered but designed. Driven by data, aligned with business outcomes</p>
+                  <p>When data meets decision making,business finds its edge, Insights aren't discovered but designed. Driven by data, aligned with business outcomes.</p>
               </div>
           </Col>
           <Col xs={12} md={6} xl={5}>
