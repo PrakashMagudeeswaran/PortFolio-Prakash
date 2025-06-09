@@ -37,19 +37,19 @@ export const Skills = () => {
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>React JS & Redux</h5>
+                                <h5>SQL</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>Node,Express JS</h5>
+                                <h5>Data Interpretation</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>Mongo DB</h5>
+                                <h5>Data Visualization & Critical Thinking</h5>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
-                                <h5>C,C++</h5>
+                                <h5>Front-End</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
@@ -57,11 +57,11 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Project Management</h5>
+                                <h5>Data Visualization & Critical Thinking</h5>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
-                                <h5>TailWind CSS</h5>
+                                <h5>R Language</h5>
                             </div>
                         </Carousel>
                     </div>
