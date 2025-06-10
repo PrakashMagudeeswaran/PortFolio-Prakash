@@ -16,7 +16,7 @@ export const Projects = () => {
       title: "Nostalgia Marketing",
       description: " A study on the influence of nostalgia on brand attitude and purchase intention of millennials",
       imgUrl: projImg1,
-      link:"https://tempratecheck.netlify.app/"
+      link:"https://drive.google.com/file/d/17EsOjx5YGp-gJkn2E5rBC3P6XNg_Mgcy/view?usp=sharing"
     },
     {
       id:2,
