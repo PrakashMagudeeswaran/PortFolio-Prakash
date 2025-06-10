@@ -13,8 +13,8 @@ export const Projects = () => {
   const projects = [
     {
       id:1,
-      title: "Weather API",
-      description: "Simple Weather App using JavaScript",
+      title: "Nostalgia Marketing",
+      description: " A study on the influence of nostalgia on brand attitude and purchase intention of millennials",
       imgUrl: projImg1,
       link:"https://tempratecheck.netlify.app/"
     },
